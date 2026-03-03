@@ -129,7 +129,9 @@ const App = () => {
   return (
     <div className='parent'>
       {jobOpenings.map((job, idx) => {
-        return <Card key={idx} {...job} />
+        return <div key={idx}>
+          <Card {...job} />
+        </div>
       })}
     </div>
   )
