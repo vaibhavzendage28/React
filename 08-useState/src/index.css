@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: black;
+  color: white;
+}
+
+/* h1 {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 2rem;
+  background-color: wheat;
+  color: black;
+  padding:  20px 40px;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+.buttons-div {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  margin-top: 100px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background-color: wheat;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+/* ------------------------------------------------------------------------------------------------- */
+
+/* div{
+  margin: 30px;
+}
+
+button{
+  padding: 10px 20px;
+  margin: 20px;
+  font-size: 1.2rem;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+/* ------------------------------------------------------------------------------------ */
+
+/* h1{
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 2rem;
+  background-color: wheat;
+  color: black;
+  padding:  20px 40px;
+  width: fit-content;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+button{
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px;
+} */
+
+/* ------------------------------------------------------------------------------------ */
