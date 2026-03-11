@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: black;
+  color: white;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 4rem;
+}
+
+.light{
+  background-color: rgb(206, 206, 206);
+  color: black;
+}
+
+.dark{
+  background-color: rgb(39, 38, 38);
+  color: white;
+}
+
+.nav div{
+  display: flex;
+  gap: 4rem;
+}
+
+.nav div h3{
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.btn{
+  margin: 20px;
+  padding: 0.5rem 1rem;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn:active{
+  background-color: darkgreen;
+  scale: 95%;
+}
